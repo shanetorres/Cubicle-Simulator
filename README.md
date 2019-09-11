@@ -3,16 +3,16 @@ A short game set in a modern work place, work diligently to feed the Sentence Re
 
 Work in Progress.
 
-<img src="/images/cubicle-simulator-gif-1" width="500"
+<img src="/images/cubicle-simulator-gif-1" width="500"/>
 
 <br/>
 
-<img src="/images/cubicle-simulator-gif-2" width="500"
+<img src="/images/cubicle-simulator-gif-2" width="500"/>
 
 <br/>
 
-<img src="/images/cubicle-simulator-gif-3" width="500"
+<img src="/images/cubicle-simulator-gif-3" width="500"/>
 
 <br/>
 
-<img src="/images/cubisim 8-14" width="700"
+<img src="/images/cubisim 8-14" width="700"/>
