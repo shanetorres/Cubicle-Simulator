@@ -117,7 +117,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
                     if (Physics.Raycast(rayOrigin, out hit, Mathf.Infinity))
                     {
                         // when the user clicks on the monitor, the camera position is changed and its rotation is locked.
-                       // Debug.Log("raycast fucken hit something");
                         if (hit.collider.CompareTag("Monitor"))
                         {
                             m_MonitorFocused = true;
